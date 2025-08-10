@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "BankEase\\src\\database",
+        "BankEase\\src\\exceptions",
+        "BankEase\\src\\main",
+        "BankEase\\src\\models",
+        "BankEase\\src\\services"
+    ],
+    "java.project.referencedLibraries": [
+        "BankEase\\src\\lib\\mysql-connector-j-9.4.0.jar"
+    ]
+}
